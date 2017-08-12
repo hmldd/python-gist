@@ -1,0 +1,4 @@
+# Local config
+redis:
+  host: localhost
+  port: 3306
